@@ -1,2 +1,2 @@
 hello world！
-change the file
+add and commit together
