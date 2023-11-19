@@ -10,6 +10,7 @@ public class PasswordManager {
         System.out.println("加密后的字符串为："+s2);
         String s3=decrypt(s2);
         System.out.println("解密后的字符串为:"+s3);
+
     }
 
     //加密方法
@@ -50,4 +51,6 @@ public class PasswordManager {
         }
         return new String(arr);
     }
+
+
 }
